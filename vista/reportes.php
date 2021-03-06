@@ -434,7 +434,7 @@ foreach ($link->query('SELECT * from servicios') as $row){ // aca puedes hacer l
 			<th>ID</th>
 			<th>Menores trabajando</th>
 			<th>Total de menores</th>
-			<th>Servicio de Electricidad</th>
+			<th>Servicio de Electricidadd</th>
 			<th>Detalles</th>
 		</tr>
 	</thead>
